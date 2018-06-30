@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zharovattorney",
+  "private_key_id": "e2890df55967498bddcbdbeba8f812ba413024ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqr460edIu8UZ7\n1ZGv3JpET0roYJ214t88MjU0GzdSTMnDmFQssH/IHvnalkLN1r10X7HcBCTBUD4u\n6x0oGiXPrUQrG3Cv3LZgSiTNiRTGbTNapvjnwwW/HhzLv/y1SPbpTifdXTFouXfS\nut72QWou73m8eb4uTk8FPsv8Wp5R4VdQm2V993W89YfXF5arcLx4nnxjcFi+EqGn\ncGd1rnHxUboux79XskfRAxZEs5fo29WqTTOY6jnovbsDHIPjCTTLLhrWjOCAS3XM\nnGXQhgVNC1nk/8QX9mWKR3mX+UJ2HNJ9bCJTjmpvSKH1RFgGaWAAS8m+jTtLQtLE\nE2y+s1Q1AgMBAAECggEAJMdpAuMYIwTa+P6bYq9wr2T9oWaGPUXqb+xqsfRmXo3M\n0SCPDMUod60TDiKgOP37e2rOZrge2mfpyk7fzL8bpC0z+ezzAnYW91cqqH5QE3S+\n4tsFWd1YbOb2cgIH2GFlUP8GEIlPBv+l/erF9f7A/GWeT/pUvGIj3V+7cUBuinpf\npYD8aLog1BUMGloe4rkXL6HFDjCVgmAyGn87I6kT6ytbM9pq/nTd8PEYvHW1qAvY\nDo98FQ6wccUFHY/X3kGvOqhGVyN1/qg+mUGwEXbNN5ZOTa6Ag1I95bXAyPNrolMw\nPZvYxUSaj2TNYBzAfuxoYHyGdP5fDTezMZG/MseiWQKBgQDYAhoPzSmOEgVH9oCU\nis9XOwH5VymAWDr2XxxzbHuVifhLGFYuxje446M6GtmF7ANLJRp4KY9JcfbX5Cyj\niWglnPaYkvI+VCTVX905qPgsvdHxFbGMyoUAJ3slkhiry4zttrp8w5WocFGH6VoR\nmqmgicZgsaIKkdcdrv/AMIVxfQKBgQDKSVvlttlu8vok4u3Kx+FieNv2Fbk1Bh42\n/fXnA0xwLwnhmU7UX8GIEuKgzC46SnFq8DwNS8h1wX801OTIg7HBaNMlux8Wm1y6\n0blVeYSY6xsekQe0EU2SLmaaSJyvDZlS1v+gdQ7voibsWOTGmexGKAq/caaBvdW7\nH4dczOxrGQKBgHhh03xy7nHLAT511nryUVNgA12egfaRNWsQ3p5FGyrf1YykZ4Nx\n3KQh2VoMlKXaPoumhfXp030vEk6HT4lkjrJHo/asDm1GH7D62CPGU2k78MDXQjgg\ntba8ShlKLo2vxz7D03Ks3b8duZJxLk0ZUOezYOeKl7AkTyqv2MCXSgdRAoGBAJDC\n9tTpiajwkTqce3fGmvCRdTgiS6w6eJz6GWP85FLUFsovoE4zSJhMi4pvFBX6+DeD\nPDZ3qTk8BACW6jLkq+yxS4mQ46qV/EJlm7AjilS0y2+QcmbWiyC1vA9lL1vG65Zw\n7fayTsIG1LwG0ZGezYtXVHm0p2fppm6HHaO3sujhAoGAIBTfqc7wBRhbl+Fj48cf\nNVa6iCtrhfp6PuEVSNw32/Ep5J1Jk4R/sBPnGbXhl0Yh6bALB4HeinlLTRhlCmax\n0RSyIFZojYwHWhU+Svs/gnbxhidyYQUYANgDRj1dhvoZJbXN6vkmstWK4pBlqooU\nEv391pJc4NeIyOv/YfBC3W8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zharov-attorney@zharovattorney.iam.gserviceaccount.com",
+  "client_id": "114484752654132310446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zharov-attorney%40zharovattorney.iam.gserviceaccount.com"
+}
